@@ -1,0 +1,17 @@
+F:\Git\hpcourse\leti\2304\Starikov\IDZCs\IDZCs\bin\Release\IDZCs.exe.config
+F:\Git\hpcourse\leti\2304\Starikov\IDZCs\IDZCs\bin\Release\IDZCs.exe
+F:\Git\hpcourse\leti\2304\Starikov\IDZCs\IDZCs\bin\Release\IDZCs.pdb
+F:\Git\hpcourse\leti\2304\Starikov\IDZCs\IDZCs\bin\Release\Google.Protobuf.dll
+F:\Git\hpcourse\leti\2304\Starikov\IDZCs\IDZCs\bin\Release\Google.Protobuf.xml
+F:\Git\hpcourse\leti\2304\Starikov\IDZCs\IDZCs\obj\Release\IDZCs.csproj.CoreCompileInputs.cache
+F:\Git\hpcourse\leti\2304\Starikov\IDZCs\IDZCs\obj\Release\IDZCs.exe
+F:\Git\hpcourse\leti\2304\Starikov\IDZCs\IDZCs\obj\Release\IDZCs.pdb
+F:\Git\IDZCs\IDZCs\bin\Release\IDZCs.exe.config
+F:\Git\IDZCs\IDZCs\bin\Release\IDZCs.exe
+F:\Git\IDZCs\IDZCs\bin\Release\IDZCs.pdb
+F:\Git\IDZCs\IDZCs\bin\Release\Google.Protobuf.dll
+F:\Git\IDZCs\IDZCs\bin\Release\Google.Protobuf.xml
+F:\Git\IDZCs\IDZCs\obj\Release\IDZCs.csprojResolveAssemblyReference.cache
+F:\Git\IDZCs\IDZCs\obj\Release\IDZCs.csproj.CoreCompileInputs.cache
+F:\Git\IDZCs\IDZCs\obj\Release\IDZCs.exe
+F:\Git\IDZCs\IDZCs\obj\Release\IDZCs.pdb
